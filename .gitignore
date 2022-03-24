@@ -34,7 +34,4 @@ gradlew
 gradlew.bat
 settings.gradle
 
-*.css
-*.html
-*.js
 
